@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-25 06:06+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: registry/apps.py:6
+msgid "registry"
+msgstr "镜像库"
+
+#: registry/models/package.py:20 registry/models/path.py:26
+msgid "Name"
+msgstr "名字"
+
+#: registry/models/package.py:29 registry/models/package.py:30
+msgid "Package"
+msgstr "包"
+
+#: registry/models/path.py:27
+msgid "Path"
+msgstr "路径"
+
+#: registry/models/path.py:34 registry/models/path.py:35
+msgid "File Path"
+msgstr "文件路径"
